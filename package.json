@@ -1,0 +1,12 @@
+{
+  "name": "miss-o-aprendizado-inicnte-hello-world-com-expressjs",
+  "version": "1.0.0",
+  "description": "Projeto da missão de aprendizado do nível inicante  Hello word com Expressjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
